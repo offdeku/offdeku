@@ -4,7 +4,7 @@
 
 - <img src="https://tox.chat/theme/img/logo.svg" style="width:30px; height:30px"> A30425126D5442B1CEC2A7EACB440380058F76AA49A48448C0DEDF176158302C4F2614C4A389
 
-- <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" style="width:30px; height:30px"> {PGP}
+- <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" style="width:30px; height:30px"> 0218 A215 FB41 FC32
 
 - <img src="https://camo.githubusercontent.com/77b57f554870ac3259e2140cc4c53d5c3fb2ca69185691bb6ecf78c555866f78/687474703a2f2f786d70702d6674772e6769746875622e696f2f6c6f676f2f6c6f676f2e737667" style="width:20px; height:20px"> krbr@exploit.im
 
